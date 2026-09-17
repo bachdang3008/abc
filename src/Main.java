@@ -5,7 +5,7 @@ void main() {
     // to see how IntelliJ IDEA suggests fixing it.
     IO.println(String.format("Hello and welcome!"));
 
-    int a =56;
+    int a =00;
 
     for (int i = 1; i <= 5; i++) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
